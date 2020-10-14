@@ -1,0 +1,15 @@
+Question:  These questions are optional
+
+a) What is something that we could improve on in the course delivery?
+
+
+b) What is something that you like about the course delivery?
+
+
+c) What is something fun and/or relaxing that you plan to do this weekend, other than work? 
+
+
+
+Note: Remember to submit the two files before the deadline either using the git
+repository, or using the web interface.
+
